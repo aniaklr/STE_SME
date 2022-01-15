@@ -12,21 +12,21 @@ This article contains a list of ideas from [How to handle an unresponsive SME](h
 - Send a meeting invitation:
     - Prepare a clear agenda
     - Prepare a list of questions. If not able to ask detailed questions:
-      - List the problem statements
-      - List exact tasks you want to complete during the meeting
+      1. List the problem statements
+      2. List exact tasks you want to complete during the meeting
 
 ## Conduct the **meeting/call**
-- Use previously prepared agenda
+- Prepare an agenda beforehand
 - Note next steps
-- Assign task owners per task
-- Assign deadlines per task
+- Assign tasks to task owners
+- Assign deadlines to tasks
 
 ## **Support** SMEs proactively
-- Ask who from SMEs team can support this particular task
-- Ask who from your team can support this particular task 
+- Ask who can support this particular task in the SME team
+- Ask who can support this particular task in your team
 
 ## **Escalate**
 - Ask more experienced team members for assistance
-- Prepare an escalation template and adjust to the case needs
-- Do not blaim the SME - ask about unresponsiveness reason
+- Prepare an escalation template and adjust it to the case needs
+- Do not blame the SME. When they don't respond, ask for reason
   - Suggest a solution or support
