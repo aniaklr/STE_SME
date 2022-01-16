@@ -18,7 +18,7 @@ This article contains a list of ideas from [How to handle an unresponsive SME](h
 ## Conduct the **meeting/call**
 - Prepare an agenda beforehand
 - Note next steps
-- Assign all tasks to task owners
+- Assign tasks to task owners
 - Assign deadlines to tasks
 
 ## **Support** SMEs proactively
