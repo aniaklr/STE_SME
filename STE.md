@@ -18,7 +18,7 @@ This article contains a list of ideas from [How to handle an unresponsive SME](h
 ## Conduct the **meeting/call**
 - Prepare an agenda beforehand
 - Note next steps
-- Assign tasks to task owners
+- Assign the tasks to task owners
 - Assign deadlines to tasks
 
 ## **Support** SMEs proactively
@@ -28,5 +28,5 @@ This article contains a list of ideas from [How to handle an unresponsive SME](h
 ## **Escalate**
 - Ask more experienced team members for assistance
 - Prepare an escalation template and adjust it to the case needs
-- Do not blame the SME. When they don't respond, ask for reason
+- Do not blame the Subject Matter Expert. When they don't respond, ask for reason
   - Suggest a solution or support
